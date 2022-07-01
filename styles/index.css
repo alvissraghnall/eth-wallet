@@ -1,0 +1,10 @@
+main {
+  width: 100%;
+  max-width: 960px;
+  margin: 40px auto;
+}
+
+.header {
+    background: #f7f7f7;
+    padding: 20px;
+}
